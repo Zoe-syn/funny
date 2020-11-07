@@ -1,5 +1,5 @@
 #
-#Fri Nov 06 17:27:58 CST 2020
+#Sat Nov 07 21:06:46 CST 2020
 com.qdu.entity.Recomment=javax.persistence.Entity
 com.qdu.entity.Buy=javax.persistence.Entity,javax.persistence.Table
 com.qdu.entity.ProductCategory=javax.persistence.Entity,javax.persistence.Table
